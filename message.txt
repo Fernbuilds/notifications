@@ -1,6 +1,8 @@
 # notifications
 notifications for Updates on Builds
 
-1
+2
 |||
 New UPDATE available for SubwaySeries Build v2.0. Please download to get the best Performance from this Build.
+
+[B]COLOR yellow]UPDATE v2.0[/COLOR][/B]
